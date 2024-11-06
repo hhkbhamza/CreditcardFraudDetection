@@ -1,0 +1,5 @@
+streamlit
+joblib
+xgboost
+pandas
+openai
