@@ -1,5 +1,6 @@
-streamlit
 joblib
+scikit-learn
 xgboost
 pandas
 openai
+streamlit
